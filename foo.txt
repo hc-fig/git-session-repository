@@ -1,1 +1,1 @@
-This is a file created in the foo branch.
+This is a file created in the foo branch. Then, it was changed in the foo branch.
